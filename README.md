@@ -1,16 +1,15 @@
-### Hi there 👋
+![GIF](http://kemo.dev/uploads/original.gif)
 
-<!--
-**kem0o/kem0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Useful Links:
 
-Here are some ideas to get you started:
+• [Twitter](https://twitter.com/xkem0x)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• [Discord](https://discordapp.com/users/299693897859465228)
+
+• [Portfolio](https://kemo.dev/)
+
+# Discord Servers:
+
+• [Neonite](https://discord.com/invite/qSJ9jGp)
+
+• [AK Facility](https://discord.gg/QRbUuBH)
