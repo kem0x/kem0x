@@ -5,5 +5,4 @@ Hello There!
 
 - Currently I'm studying at the Faculty of Commerce, i live in Egypt (where internet is limited and expensive) hence i am looking for a job to secure some money.
 
-[![Kemo's github stats](https://github-readme-stats.vercel.app/api?username=kem0x&show_icons=true&theme=slateorange
-)](https://github.com/anuraghazra/github-readme-stats) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/715746190813298788)](https://discord.com/users/715746190813298788)
